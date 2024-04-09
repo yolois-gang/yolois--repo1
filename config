@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+
+[gitweb]
+	owner=yoloiss
+[remote "origin"]
+	url = https://github.com/yolois-gang
+	fetch = +refs/heads/*:refs/remotes/origin/*
